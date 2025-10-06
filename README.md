@@ -57,7 +57,7 @@ This project integrates **two primary datasets** to build a unified analytical m
 ---
 
 ## 📸 Dashboard Preview
-![QuantifyIQ Dashboard Preview](Anshraut9/QunatifyIQ_DashBoard/blob/main/IMAGE.png)
+![QuantifyIQ Dashboard Preview](Anshraut9/QunatifyIQ_DashBoard/blob/main/IMAGE.png](https://github.com/Anshraut9/QunatifyIQ_DashBoard/blob/main/DashBoard_image.png)
 
 ---
 
